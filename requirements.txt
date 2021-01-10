@@ -1,0 +1,6 @@
+psycopg2
+xgboost==0.90 
+graphviz
+pandas==1.1.5
+sqlalchemy-redshift
+fsspec==0.7.4
